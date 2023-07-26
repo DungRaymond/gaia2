@@ -20,5 +20,12 @@
 		"svelte": "^4.0.5",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fortawesome/free-solid-svg-icons": "^6.4.0",
+		"@svelteuidev/composables": "^0.14.0",
+		"@svelteuidev/core": "^0.14.0",
+		"@svelteuidev/motion": "^0.14.0",
+		"svelte-fa": "^3.0.4"
+	}
 }
